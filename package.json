@@ -36,7 +36,7 @@
     "blessed-contrib": "^3.5.5",
     "blocked": "^1.2.1",
     "commander": "^2.9.0",
-    "cross-spawn": "^4.0.2",
+    "cross-spawn": "^7.0.3",
     "jsonschema": "^1.1.1",
     "lodash": "^4.16.2",
     "pidusage": "^1.0.8",
